@@ -9,3 +9,5 @@ click
 typing-extensions
 rich
 pyyaml>=6.0
+py>=1.11.0
+
