@@ -22,13 +22,13 @@ A newer version of this Cookiecutter (using the amazing [Typer](https://typer.ti
 Install cookiecutter.
 
 ```bash
-$ pip install --user cookiecutter
+pip install --user cookiecutter
 ```
 
 Generate your project template using cookiecutter.
 
 ```bash
-$ cookiecutter gh:yankeexe/cookiecutter-python-cli
+cookiecutter gh:yankeexe/cookiecutter-python-cli
 ```
 
 ## Project Setup
