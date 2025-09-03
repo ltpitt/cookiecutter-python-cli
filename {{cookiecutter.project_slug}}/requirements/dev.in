@@ -8,3 +8,4 @@ black
 click
 typing-extensions
 rich
+pyyaml>=6.0
